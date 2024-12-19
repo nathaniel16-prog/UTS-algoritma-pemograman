@@ -1,0 +1,3 @@
+r = float (input("masukkan jar-jari : "))
+luas = 3.14 * pow(r,2)
+print ("luas lingkaran : ",luas)
